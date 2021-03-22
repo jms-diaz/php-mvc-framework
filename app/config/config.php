@@ -1,15 +1,15 @@
 <?php
 
 define('DB_HOST', 'localhost');
-define('DB_USER', 'root');
-define('DB_PASS', '');
-define('DB_NAME', 'test');
+define('DB_USER', '_USERNAME');
+define('DB_PASS', '_PASSWORD');
+define('DB_NAME', '_DBNAME');
 
 
 
 
 define('APPROOT', dirname(dirname(__FILE__)));
 
-define('URLROOT', 'http://localhost/DiazMVC');
+define('URLROOT', '_URLROOT');
 
-define('SITENAME', 'ShareNotes');
+define('SITENAME', '_SITENAME');
